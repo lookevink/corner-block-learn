@@ -29698,4 +29698,11 @@ li[data-task=U] > p > input:checked {
 /****end checkbox****/
 
 
- 
+.site-body-left-column-site-logo {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.theme-light .site-body-left-column-site-logo {
+  filter: invert(1) hue-rotate(180deg);
+}

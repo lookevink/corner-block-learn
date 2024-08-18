@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/Smart Contract.md",
+                "file": "Real Estate/Institutional Investors (SFR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0d36a56ffcc585f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/DAO LLC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b8382c9b5c0cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real Estate/Automated Valuation Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb5f60499cabaa8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain/DAO LLC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Smart Contract.md",
+                "file": "Blockchain/DAO LLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/Smart Contract.md",
+                "file": "Blockchain/DAO LLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/Smart Contract.md"
+                "file": "Blockchain/DAO LLC.md"
               }
             }
           }
@@ -133,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,27 +183,38 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "070cadaff010afcf",
+  "active": "cb5f60499cabaa8d",
   "lastOpenFiles": [
+    "Comparables.md",
+    "Real Estate/Automated Valuation Model.md",
     "Blockchain/DAO LLC.md",
+    "prompts/0. Definitions.md",
+    "Real Estate/Off-Market Properties.md",
+    "Real Estate/Multiple Listing Services.md",
+    "Real Estate/LLC.md",
+    "Real Estate/Single Family Rental.md",
     "CornerBlock White Paper.md",
-    "Automated Valuation Model.md",
-    "Bidding.md",
+    "Real Estate/Institutional Investors (SFR).md",
+    "Blockchain/Smart Contract.md",
+    "Blockchain/Property Tokenization.md",
+    "CornerBlock/Bidding.md",
+    "prompts/0. base prompt.md",
+    "fractional cash offers.md",
+    "CornerBlock/Fractional Cash Offer.md",
+    "CornerBlock",
+    "Media/favicon-32x32.png",
+    "Media/cornerblock-horizontal.svg",
+    "Media/corner-block-ai-logo.png",
+    "Media/cornerblock-ai.svg",
     "Real Estate/Listing Agent.md",
+    "Media/cornerblock-ai.png",
     "Legality.md",
     "Corner Block Overview.md",
-    "Real Estate/Fractional Cash Offer.md",
-    "Blockchain/Smart Contract.md",
     "Blockchain",
-    "Real Estate/Off-Market Properties.md",
-    "Real Estate/Institutional Investors (SFR).md",
-    "Media/cornerblock-ai.png",
     "publish.css",
     "theme.css",
     "Media",
-    "Real Estate/Single Family Rental.md",
     "Real Estate",
-    "prompts/0. base prompt.md",
     "Untitled.canvas",
     "prompts",
     "2024-08-17.md",

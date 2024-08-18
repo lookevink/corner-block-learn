@@ -1,21 +1,23 @@
 ## Problem
-[[Single family rental]] (SFR), despite its risk-adjusted & stable return profile, is often unattractive to majority of middle income earners for the following reasons:
+
+[[Single family rental]] (SFR), despite its risk-adjusted & stable return profile, is often inaccessible to majority of middle income earners for the following reasons:
 
 1. **High Initial Capital Requirement:** Purchasing, renovating, and placing tenant in an SFR property requires high upfront investment, preventing incremental portfolio accumulation.
 2. **Lack of Liquidity:** Investing in SFR properties ties up a substantial amount of capital, making it difficult for middle-class investors to access funds quickly if needed for other financial obligations.
 3. **Competition from Institutions** Middle-class investors may face stiff competition from institutional buyers in hot markets, which see strong cash offers made possible through economies of scale.
 4. **Demanding Property Management:** For working professionals, managing a rental property alongside a full-time job can be overwhelming, leading to potential mistakes or neglect that can hurt rental income and property value.
-5. **Long Transaction Cycles:** Close of escrow, renovation, tenant placement, and other steps of real estate transactions are time-consuming, delaying income generation and tying up capital for extended periods.
+5. **Lack of Diversification:** Investing in a single SFR property concentrates risk in one asset, making it difficult for middle-class investors to spread risk across multiple properties or markets without significant additional capital.
 6. **Low Yields:** Achieving profitable returns requires constant market monitoring, deep market knowledge, and the ability to make responsive and tactical bids, which is prohibitively time-consuming.
 
 ## Solution
+
 CornerBlock plans to democratize SFR investment to middle income earners with:
 
 1. **Property Tokenization:** Tokenization enables fractional ownership, reducing upfront capital requirements to generating SFR income.
 2. **Secondary Market:** On-chain secondary market for tokenized assets enables fractional SFR investors to access liquidity through peer-to-peer transactions, allowing for cheaper and greater flexibility.
 3. **Fractional Cash Offers:** Pooling funds enables multiple investors to make competitive & all cash bids on properties, as investors can unlock greater capital efficiency by adjusting the risks and amount of upfront investment.
 4. **Decentralized Autonomous Organizations:** Fractional owners can vote to choose property management professionals, or rely on the management of other fractional owners, at agreed upon fees. Investors can choose to be as involved or passive in the process.
-5. **Instant Settlement:** Smart contracts allow for instant settlement and other programmable automations to vastly reduce both cost and duration of a transaction.
+5. **Automated Portfolio Diversification:** Investors can diversify by purchasing fractional ownership in multiple properties across various locations and types, reducing concentration risk. Smart contracts enable automatic distribution of investments based on individual risk preferences, ensuring a balanced portfolio with minimal effort.
 6. **Vetted Off-market Properties:** Community or agent sourced [[Off-Market Properties|off-market properties]], completed with AI-powered rental & valuation financial analysis, guarantees high yielding properties with transparent financial assumptions.
 
 ## Implementation
@@ -41,4 +43,4 @@ CornerBlock ("CB") is building [[Fractional Cash Offer|fractional cash offer]] m
 	6. **Deed Recording:** Officially transfers ownership by recording the deed with local authorities.
 5. After closing & renovation if applicable, the delegated managers run day-to-day operations on the properties, including tenant placement, rent collection, maintenance, and financial reporting.
 6. Token holders vote on larger issues, including property sales, major renovations, change in management, etc.
-7. If desired, individual investors can sell their tokens to other investors. Theoretically, a tokenized asset may never need to be listed on market again, drastically reducing the costs of ownership transfer.
+7. If desired, individual investors can sell their tokens to other investors. Theoretically, a tokenized asset never needs to be listed on market again, drastically reducing the costs of ownership transfer.

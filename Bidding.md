@@ -1,1 +1,0 @@
-Unlike a single cash offer, fractional cash offers can receive multiple bids a different price points, in different amounts.
