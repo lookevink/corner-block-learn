@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "e84ec0089c8399ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec8bfecb7f7c5e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5b1eb889f056fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corner Block Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "613e60e082edffce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fractional Cash Offer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "991b0294c9ecf8d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2604250f3c5ff216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0958662f26b15c43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "074d7d5e84025449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b17bc98048316c58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a73a32494100c438",
+    "type": "split",
+    "children": [
+      {
+        "id": "517ee3932a205074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747a14cc33da5efe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fractional Cash Offer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9871a5eae2e47e72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fractional Cash Offer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "502187c7df37b8cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c7d2ea8a5a9cce5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fractional Cash Offer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "613e60e082edffce",
+  "lastOpenFiles": [
+    "Media/cornerblock-ai.png",
+    "CornerBlock White Paper.md",
+    "publish.css",
+    "theme.css",
+    "Corner Block Overview.md",
+    "Legality.md",
+    "Fractional Cash Offer.md",
+    "Real Estate/Institutional Investors (SFR).md",
+    "Media",
+    "Real Estate/Single Family Rental.md",
+    "Real Estate",
+    "prompts/0. base prompt.md",
+    "Untitled.canvas",
+    "prompts",
+    "2024-08-17.md",
+    "Untitled 1.canvas",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

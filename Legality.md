@@ -1,0 +1,1 @@
+Tokenization, and fractional ownership of real estate for that matter, are restricted in certain areas.
