@@ -1,4 +1,4 @@
-**Property tokenization** is the process of converting ownership rights in a real estate asset, such as a single-family rental ([[Single Family Rental|SFR]]) property, into digital tokens on a blockchain. These tokens represent fractional ownership of the property, allowing multiple investors to own a portion of the asset without the need to purchase the entire property.
+**Property tokenization** is the process of converting ownership rights in a real estate asset, such as a single-family rental ([[Single Family Rental|SFR]]) property, into digital [[Token|tokens]] on a blockchain. These tokens represent fractional ownership of the property, allowing multiple investors to own a portion of the asset without the need to purchase the entire property.
 
 >**TL;DR:** Property tokenization transforms real estate ownership into digital tokens on a blockchain, enabling fractional ownership and increased liquidity in the real estate market.
 

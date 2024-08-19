@@ -21,7 +21,7 @@ CornerBlock plans to democratize SFR investment to middle income earners with:
 6. **Vetted Off-market Properties:** Community or agent sourced [[Off-Market Properties|off-market properties]], completed with AI-powered rental & valuation financial analysis, guarantees high yielding properties with transparent financial assumptions.
 
 ## Implementation
-CornerBlock ("CB") is building [[Fractional Cash Offer|fractional cash offer]] marketplace for [[Single Family Rental|single family rental]] operated on [Solana](https://solana.com). Participants pool capital to bid on properties using [PYUSD](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd) or [USDC](https://www.circle.com/en/usdc), held by [[Smart Contract|smart contracts]] that make cash offers on off-market properties. After acquisition and tokenization, holders assign, vote, and manage property and receive pro rata rental payment.
+CornerBlock ("CB") is building a [[Fractional Cash Offer|fractional cash offer]] marketplace for [[Single Family Rental|single family rental]] hosted on [Solana](https://solana.com). Participants pool capital to bid on properties using [PYUSD](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd) or [USDC](https://www.circle.com/en/usdc), held by [[Smart Contract|smart contracts]] that make cash offers on off-market properties. After acquisition and tokenization, holders assign, vote, and manage property and receive pro rata rental payment.
 
 #### Typical Lifecycle:
 1. CB sources off-market deals through the following channels:
@@ -41,6 +41,7 @@ CornerBlock ("CB") is building [[Fractional Cash Offer|fractional cash offer]] m
 	4. **Document Preparation:** Title company or attorney prepares closing documents.
 	5. **Funds Transfer:** Smart contract deploys the remainder of the offer amount
 	6. **Deed Recording:** Officially transfers ownership by recording the deed with local authorities.
+	7. More detailed closing process is [[Closing|here]].
 5. After closing & renovation if applicable, the delegated managers run day-to-day operations on the properties, including tenant placement, rent collection, maintenance, and financial reporting.
 6. Token holders vote on larger issues, including property sales, major renovations, change in management, etc.
 7. If desired, individual investors can sell their tokens to other investors. Theoretically, a tokenized asset never needs to be listed on market again, drastically reducing the costs of ownership transfer.

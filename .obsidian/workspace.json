@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "070cadaff010afcf",
+            "id": "e3abefc94d4bae67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Estate/Institutional Investors (SFR).md",
+                "file": "CornerBlock/Closing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0d36a56ffcc585f",
+            "id": "f0215b6fd0febf39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/DAO LLC.md",
+                "file": "CornerBlock/Managing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83b8382c9b5c0cb1",
+            "id": "a06ebf77197fdd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real Estate/Automated Valuation Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb5f60499cabaa8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blockchain/DAO LLC.md",
+                "file": "Blockchain/Blockchain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/DAO LLC.md",
+                "file": "Blockchain/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/DAO LLC.md",
+                "file": "Blockchain/Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/DAO LLC.md"
+                "file": "Blockchain/Blockchain.md"
               }
             }
           }
@@ -183,30 +171,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cb5f60499cabaa8d",
+  "active": "a06ebf77197fdd24",
   "lastOpenFiles": [
-    "Comparables.md",
-    "Real Estate/Automated Valuation Model.md",
     "Blockchain/DAO LLC.md",
-    "prompts/0. Definitions.md",
+    "Blockchain/Fractional Cash Offer.md",
+    "Blockchain/Property Tokenization.md",
+    "Blockchain/Smart Contract.md",
+    "Blockchain/Token.md",
+    "CornerBlock/Bidding.md",
+    "CornerBlock/Closing.md",
+    "CornerBlock/Exiting.md",
+    "CornerBlock/Managing.md",
+    "prompts/0. base prompt.md",
+    "Real Estate/Fair Market Value.md",
+    "Real Estate/Institutional Investors (SFR).md",
+    "Real Estate/Comparables.md",
+    "Real Estate/Automated Valuation Model.md",
+    "Real Estate/Single Family Rental.md",
     "Real Estate/Off-Market Properties.md",
     "Real Estate/Multiple Listing Services.md",
     "Real Estate/LLC.md",
-    "Real Estate/Single Family Rental.md",
+    "Real Estate/Listing Agent.md",
     "CornerBlock White Paper.md",
-    "Real Estate/Institutional Investors (SFR).md",
-    "Blockchain/Smart Contract.md",
-    "Blockchain/Property Tokenization.md",
-    "CornerBlock/Bidding.md",
-    "prompts/0. base prompt.md",
+    "prompts/2. Bidding process.md",
+    "prompts/1. Definitions.md",
+    "Blockchain/Blockchain.md",
     "fractional cash offers.md",
-    "CornerBlock/Fractional Cash Offer.md",
     "CornerBlock",
     "Media/favicon-32x32.png",
     "Media/cornerblock-horizontal.svg",
     "Media/corner-block-ai-logo.png",
     "Media/cornerblock-ai.svg",
-    "Real Estate/Listing Agent.md",
     "Media/cornerblock-ai.png",
     "Legality.md",
     "Corner Block Overview.md",
@@ -217,9 +212,6 @@
     "Real Estate",
     "Untitled.canvas",
     "prompts",
-    "2024-08-17.md",
-    "Untitled 1.canvas",
-    "Welcome.md",
-    "create a link.md"
+    "Untitled 1.canvas"
   ]
 }
