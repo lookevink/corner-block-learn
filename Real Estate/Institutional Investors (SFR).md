@@ -2,7 +2,7 @@
 
 **Institutional investors** are large financial entities such as hedge funds, private equity firms, real estate investment trusts (REITs), and pension funds that have substantial capital and resources to invest in various assets, including single-family rental (SFR) properties.
 
-**TL;DR:** Institutional investors are large financial entities with significant capital that invest in single-family rental (SFR) properties, often dominating the market due to their ability to make large, competitive cash offers and efficiently manage portfolios at scale. This can create challenges for smaller, individual investors.
+>**TL;DR:** Institutional investors are large financial entities with significant capital that invest in single-family rental (SFR) properties, often dominating the market due to their ability to make large, competitive cash offers and efficiently manage portfolios at scale. This can create challenges for smaller, individual investors.
 
 ### How Institutional Investors Operate in the SFR Market
 
